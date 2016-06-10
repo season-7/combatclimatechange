@@ -1,0 +1,18 @@
+html {
+background-color: aquamarine;
+font-family: 'Raleway', sans-serif;
+font-size: 48px;
+}
+body {
+color: lightcyan;    
+background-clip: content-box;
+margin: auto;
+border-width: medium;
+background-color: grey;
+border-bottom-style: dotted;
+}
+h1 {
+color: greenyellow;
+font-weight: 800;
+line-height: normal;
+}
