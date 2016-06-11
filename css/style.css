@@ -1,0 +1,61 @@
+            html,
+            body,
+            div,
+            s h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            p,
+            ul,
+            li,
+            f footer,
+            header,
+            nav,
+            {
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-size: 100%;
+                font: inherit;
+                vertical-align: baseline;
+            }
+            /* HTML5 display-role reset for older browsers */
+            
+            article,
+            aside,
+            details,
+            figcaption,
+            figure,
+            footer,
+            header,
+            hgroup,
+            menu,
+            nav,
+            section {
+                display: block;
+            }
+            body {
+                line-height: 1;
+                background-color: gray;
+            }
+            ul {
+                list-style: none;
+                font-family: 'Raleway', sans-serif;
+            }
+            aside {
+                background-color: darkgoldenrod;
+                font-family: 'Raleway', sans-serif;
+            }
+            header,
+            h1,
+            h2,
+            h5 {
+                font-family: 'Raleway', sans-serif;
+                
+            }
+            p {
+                font-family: 'Raleway', sans-serif;
+                
+            }
